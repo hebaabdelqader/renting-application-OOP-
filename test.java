@@ -1,6 +1,6 @@
 package traning;
 
-public class teat {
+public class test {
 
 	public static void main(String[] args) {
 		Building aprtment1 = new Apartment("ali appartment",4,"Tulkerm",1);

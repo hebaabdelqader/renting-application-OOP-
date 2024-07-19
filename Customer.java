@@ -1,6 +1,7 @@
 package traning;
 import java.util.*;
 public class Customer {
+	
 	private String name;
 	private List<Contracts> contracts;
 	public Customer(String name) {
@@ -16,4 +17,5 @@ public class Customer {
 	public void addContract(Contracts contract) {
 	        contracts.add(contract);
 	    }
+
 }
